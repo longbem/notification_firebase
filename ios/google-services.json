@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "853551544598",
+    "firebase_url": "https://super-276309.firebaseio.com",
+    "project_id": "super-276309",
+    "storage_bucket": "super-276309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853551544598:android:101d9359bed1bcf2b8f837",
+        "android_client_info": {
+          "package_name": "com.andrew_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853551544598-2bm8l4rgeh9sptuoo977nm34btubnbdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrew_mobile",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "853551544598-tlt8aitno9jdb6ci238mkoere6e022cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ayzbBRb188bkvhwt1E7X4bE2dkUqG1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853551544598-tlt8aitno9jdb6ci238mkoere6e022cp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "853551544598-2epu9nl116rtl7b10tbi8vkkupflfr8n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Super.SocialCity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
