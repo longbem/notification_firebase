@@ -35,6 +35,14 @@ const App: () => React$Node = () => {
 
     if (enabled) {
       console.log('Authorization status:', authStatus);
+      messaging()
+        .getToken()
+        .then((value) => {
+          console.log('requestUserPermission -> value', value);
+        })
+        .catch((e) => {
+          console.log('requestUserPermission -> e', e);
+        });
     }
   }
 
