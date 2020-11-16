@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "555179551544",
+    "firebase_url": "https://dev-super-2a994.firebaseio.com",
+    "project_id": "dev-super-2a994",
+    "storage_bucket": "dev-super-2a994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555179551544:android:6eb88a4725f1f63603efcd",
+        "android_client_info": {
+          "package_name": "com.andrew_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555179551544-b9ckjr31evgijsicu23h2seg6jn7pmhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVukGnfW0f65Ho7UhoowPXqRUzifqR5nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555179551544-b9ckjr31evgijsicu23h2seg6jn7pmhe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555179551544-vo4kintef4krviondfbqmubil9guccud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Super.SocialCity"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555179551544:android:b1fa6dbcfc772aa203efcd",
+        "android_client_info": {
+          "package_name": "com.notification_tetst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555179551544-b9ckjr31evgijsicu23h2seg6jn7pmhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVukGnfW0f65Ho7UhoowPXqRUzifqR5nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555179551544-b9ckjr31evgijsicu23h2seg6jn7pmhe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555179551544-vo4kintef4krviondfbqmubil9guccud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Super.SocialCity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
